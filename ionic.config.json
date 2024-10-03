@@ -1,0 +1,7 @@
+{
+  "name": "Udemy-DispositivosMoviles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
